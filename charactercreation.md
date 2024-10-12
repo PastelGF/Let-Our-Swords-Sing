@@ -9,7 +9,7 @@ has_children: true
 # Character Creation
 
 ## Ability Scores
-Characters in Let Our Swords Sing have 4 ability scores:
+Characters in Let Swords Sing have 4 ability scores:
 - Strength (STR): physical might and constitution. Your Inventory slots are equal to your STR (minimum 8).
 - Dexterity (DEX): agility and deftness. You gain a +1 to initiative at 13 and 16 DEX.
 - Lore (LOR): knowledge and understanding. You gain +1 language at 13 and 16 LOR.
